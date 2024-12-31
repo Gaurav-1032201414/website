@@ -1,0 +1,27 @@
+[
+    {
+      "id": "1",
+      "title": "Fruits",
+      "description": "This is a short description of Product One.",
+      "image": "website/src/images/fruits.png"
+    },
+    {
+      "id": "2",
+      "title": "Cereals and Millet",
+      "description": "This is a short description of Product Two.",
+      "image": "website/src/images/cereals_millet.png"
+    },
+    {
+      "id": "3",
+      "title": "Seeds",
+      "description": "This is a short description of Product Three.",
+      "image": "website/src/images/seeds.png"
+    },
+    {
+      "id": "4",
+      "title": "Beverages",
+      "description": "This is a short description of Product Four.",
+      "image": "website/src/images/beverages.png"
+    }
+  ]
+  
